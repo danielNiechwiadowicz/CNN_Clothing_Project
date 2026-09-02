@@ -1,5 +1,4 @@
 # CNN-Based Clothing Image Classification
-S 
 
 ---
 
