@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Built, trained, and evaluated multiple Convolutional Neural Network (CNN) architectures from scratch to classify real-world clothing images into 10 categories. The project used the Kaggle Clothing Dataset (1,000 images subset), which contains real-world RGB photographs with varying backgrounds, poses, and lighting — significantly more challenging than benchmark datasets like Fashion-MNIST.
+Built, trained, and evaluated multiple Convolutional Neural Network (CNN) architectures from scratch to classify real-world clothing images into 10 categories. The project used the Kaggle Clothing Dataset (1,000 images subset), which contains real-world RGB photographs with varying backgrounds, poses, and lighting, significantly more challenging than benchmark datasets like Fashion-MNIST.
 
 **Categories classified:** Dress, Hat, Longsleeve, Not sure, Outwear, Pants, Shirt, Shoes, Shorts, T-Shirt
 
